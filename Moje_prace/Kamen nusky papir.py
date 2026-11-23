@@ -27,4 +27,3 @@ elif bot == "nuzky" and clovek == "papir":
     
 else:
     print("Vyhra")
-
